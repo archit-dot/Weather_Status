@@ -36,7 +36,7 @@ A simple Python-based Weather Application that fetches real-time weather informa
 
 Clone the repository
 
-git clone https://github.com/your-username/Weather_Status.git
+git clone https://github.com/archit-dot/Weather_Status.git
 cd Weather_Status
 
 Install the required libraries
@@ -66,38 +66,7 @@ weather.py
 
 📷 Sample Output
 
-Main Menu
-
-====== Weather App ======
-1. Get Weather by City
-2. Get Current Location Weather
-3. Exit
-
-Weather Report
-
-========== WEATHER REPORT ==========
-City        : Patna
-Country     : IN
-Temperature : 34.52 °C
-Humidity    : 68 %
-Pressure    : 1008 hPa
-Condition   : Clear Sky
-Wind Speed  : 2.31 m/s
-====================================
-
-Weather Alert
-
-☀ Clear Sky
-
----
-
-📸 Screenshots
-
-![Home](screenshots/home.png)
-
-![Weather Report](screenshots/weather-report.png)
-
-![Current Location](screenshots/current-location.png)
+![Weather Report](output.png)
 
 ---
 
